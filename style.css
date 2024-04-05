@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+    font-family:inherit;
     font-size: 40px;
     font-weight: bold;
     color: #0075f1;
