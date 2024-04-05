@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(249, 249, 249);
+}
+
+#first-div {
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #0075f1;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+form {
+    background-color: rgb(255 255 2545 1);
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 2px black;
+    width: auto;
+}
+
+input::placeholder {
+    color: burlywood;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+input {
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+.loginbtn {
+    width: 100%;
+    margin-top: 30px;
+}
